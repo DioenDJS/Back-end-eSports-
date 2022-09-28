@@ -10,4 +10,4 @@ app.get('/ads', (request, response) =>{
     ])
 })
 
-app.Listen(3333)
+app.listen(3333)
