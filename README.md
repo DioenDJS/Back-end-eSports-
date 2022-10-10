@@ -7,11 +7,6 @@
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/Back-end-eSports-" >
 </p>
 
-<img src="src/assets/imagemprojeto.png" alt="image project" />
-
-### Lisatgem de Games
-![image](https://user-images.githubusercontent.com/76778401/194794168-b780a4a1-4c74-496e-b362-9c2368e22a8a.png)
-
 ## Tecnologias Utilizadas no projeto :construction:
 
 <!-- - [Vite](https://vitejs.dev/)<img align="center" alt="img_React" height="20" width="25" src="https://vitejs.dev/logo.svg" style="max-width:100%;" />
@@ -112,3 +107,18 @@ Projeto . Desenvolver...
 >``` yarn add node-sass -D ```
 >
 >``` yarn add sass-loader -D ``` -->
+
+## Methods HTTP no Insomnia:
+
+### Lisatgem de Games
+![image](https://user-images.githubusercontent.com/76778401/194794168-b780a4a1-4c74-496e-b362-9c2368e22a8a.png)
+
+### Listagem de anúncios por games
+![image](https://user-images.githubusercontent.com/76778401/194805880-7e5c2407-e8a4-4f21-8e6f-f05eaa64ef4f.png)
+
+### Discord por anúncio
+![image](https://user-images.githubusercontent.com/76778401/194806030-2398d6f7-752e-4ab5-8f95-f51b81d32f90.png)
+
+### Cria um anúncio
+![image](https://user-images.githubusercontent.com/76778401/194806122-d30eae45-387e-4a2e-bd3c-7ab06a986d89.png)
+
