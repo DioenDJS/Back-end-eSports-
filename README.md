@@ -35,8 +35,8 @@
 
 - [Prisma](https://www.prisma.io/) <img align="center" alt="img prisma" height="60" width="65" src="https://website-v9.vercel.app/logo-dark.svg" style="max-width:100%;" />
 
+- [Cors](https://www.npmjs.com/package/cors)
 <!-- 
-- [Cross env](https://www.npmjs.com/package/cross-env)
 
 - [ Sass ](https://sass-lang.com/)<img align="center" alt="img sass" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="max-width:100%;" /> -->
 
@@ -90,6 +90,12 @@ Projeto . Desenvolver...
 >```npx prisma studio```
 >
 >```npm i @prisma/client```
+
+> - cors
+>
+>``` npm i cors ```
+>
+>```npm i @types/cors -D```
 <!-- 
 >
 >``` yarn add babel-loader -D ```
@@ -100,9 +106,6 @@ Projeto . Desenvolver...
 >
 >``` yarn add style-loader css-loader -D ```
 
-> - cross-env
->
->``` yarn add cross-env -D ```
 
 > - Sass
 >
